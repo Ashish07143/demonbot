@@ -10,7 +10,7 @@ Join https://t.me/thedemonhub for updates and tuts
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/TheDemonHuB/DemonBoT
-cd X-tra-Telegram
+cd DemonBoT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
