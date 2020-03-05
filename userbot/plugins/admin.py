@@ -206,7 +206,7 @@ async def demote(dmod):
             f"CHAT: {dmod.chat.title}(`{dmod.chat_id}`)")
 
 
-@register(outgoing=True, pattern="^.ban(?: |$)(.*)")
+@register(outgoing=True, pattern="^.ben10(?: |$)(.*)")
 @errors_handler
 async def ban(bon):
     """ For .ban command, bans the replied/tagged person """
